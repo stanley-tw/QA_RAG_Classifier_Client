@@ -1,0 +1,6 @@
+[submodule "common_spec"]
+	path = common_spec
+	url = https://github.com/stanley-tw/common_spec_pub.git
+[submodule "DO_NOT_READ/QA_RAG_Classifier"]
+	path = DO_NOT_READ/QA_RAG_Classifier
+	url = https://github.com/stanley-tw/QA_RAG_Classifier.git
